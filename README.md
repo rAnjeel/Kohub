@@ -13,7 +13,7 @@ Kohub est une application dédiée à la gestion d'espaces de coworking. Elle pe
 ## Technologies Utilisées
 
 - **Java 17** : Langage de programmation principal.
-- **Spring Boot 3.x** : Cadre de développement pour créer des applications robustes.
+- **Spring Boot 3.4.3** : Cadre de développement pour créer des applications robustes.
 - **Spring Security** : Gestion de l'authentification et de l'autorisation.
 - **Spring Data JPA** : Simplification de l'accès aux données et gestion des entités.
 - **PostgreSQL** : Base de données relationnelle utilisée pour stocker les informations.

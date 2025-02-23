@@ -33,7 +33,7 @@ Kohub est une application dédiée à la gestion d'espaces de coworking. Elle pe
 2. **Configurer la Base de Données**  
    Dans le fichier `src/main/resources/application.properties`, configurez la connexion à PostgreSQL :
    ```properties
-   spring.datasource.url=jdbc:postgresql://localhost:5432/coworking_db
+   spring.datasource.url=jdbc:postgresql://localhost:5432/coworking
    spring.datasource.username=postgres
    spring.datasource.password=mot_de_passe
    spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
